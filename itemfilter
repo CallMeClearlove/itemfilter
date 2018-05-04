@@ -1,0 +1,752 @@
+{
+  "Item_Armor_C_01_Lv3_C": {
+    "shortName": "A3",
+    "showItem": true,
+    "group": 2
+  },
+  "Item_Back_C_01_Lv3_C": {
+    "shortName": "B3",
+    "showItem": true,
+    "group": 2
+  },
+  "Item_Back_C_02_Lv3_C": {
+    "shortName": "B3",
+    "showItem": true,
+    "group": 2
+  },
+  "Item_Head_G_01_Lv3_C": {
+    "shortName": "H3",
+    "showItem": true,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Muzzle_Suppressor_Large_C": {
+    "shortName": "SUP",
+    "showItem": true,
+    "group": 1
+  },
+  "Item_Weapon_HK416_C": {
+    "shortName": "M4",
+    "showItem": true,
+    "group": 0
+  },
+  "Item_Weapon_Kar98k_C": {
+    "shortName": "K98",
+    "showItem": true,
+    "group": 0
+  },
+  "Item_Weapon_VSS_C": {
+    "shortName": "VSS",
+    "showItem": false,
+    "group": 0
+  },
+  "Item_Attach_Weapon_Upper_ACOG_01_C": {
+    "shortName": "4X",
+    "showItem": true,
+    "group": 1
+  },
+  "Item_Attach_Weapon_Upper_CQBSS_C": {
+    "shortName": "8X",
+    "showItem": true,
+    "group": 1
+  },
+  "Item_Attach_Weapon_Magazine_ExtendedQuickDraw_Large_C": {
+    "shortName": "EQD",
+    "showItem": true,
+    "group": 3
+  },
+  "Item_Weapon_M16A4_C": {
+    "shortName": "M16",
+    "showItem": true,
+    "group": 3
+  },
+  "Item_Weapon_SCAR-L_C": {
+    "shortName": "SCL",
+    "showItem": true,
+    "group": 1
+  },
+  "Item_Weapon_AK47_C": {
+    "shortName": "AK",
+    "showItem": true,
+    "group": 3
+  },
+  "Item_Weapon_Mini14_C": {
+    "shortName": "M14",
+    "showItem": false,
+    "group": 1
+  },
+  "Item_Weapon_SKS_C": {
+    "shortName": "SKS",
+    "showItem": false,
+    "group": 1
+  },
+  "Item_Weapon_UMP_C": {
+    "shortName": "UMP",
+    "showItem": false,
+    "group": 1
+  },
+  "Item_Weapon_Vector_C": {
+    "shortName": "Vec",
+    "showItem": false,
+    "group": 1
+  },
+  "Item_Weapon_UZI_C": {
+    "shortName": "UZI",
+    "showItem": false,
+    "group": 1
+  },
+  "Item_Weapon_Thompson_C": {
+    "shortName": "TMP",
+    "showItem": false,
+    "group": 1
+  },
+  "Item_Weapon_Saiga12_C": {
+    "shortName": "S12",
+    "showItem": false,
+    "group": 1
+  },
+  "Item_Weapon_M24_C": {
+    "shortName": "M24",
+    "showItem": false,
+    "group": 1
+  },
+  "Item_Armor_D_01_Lv2_C": {
+    "shortName": "A2",
+    "showItem": true,
+    "group": 3
+  },
+  "Item_Back_F_01_Lv2_C": {
+    "shortName": "B2",
+    "showItem": true,
+    "group": 3
+  },
+  "Item_Back_F_02_Lv2_C": {
+    "shortName": "B2",
+    "showItem": true,
+    "group": 3
+  },
+  "Item_Head_F_01_Lv2_C": {
+    "shortName": "H2",
+    "showItem": true,
+    "group": 3
+  },
+  "Item_Head_F_02_Lv2_C": {
+    "shortName": "H2",
+    "showItem": true,
+    "group": 3
+  },
+  "Item_Attach_Weapon_Upper_DotSight_01_C": {
+    "shortName": "RDS",
+    "showItem": true,
+    "group": 3
+  },
+  "Item_Attach_Weapon_Muzzle_FlashHider_Large_C": {
+    "shortName": "FH",
+    "showItem": false,
+    "group": 3
+  },
+  "Item_Attach_Weapon_Upper_Aimpoint_C": {
+    "shortName": "0x",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Upper_Holosight_C": {
+    "shortName": "holo",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Muzzle_Compensator_Large_C": {
+    "shortName": "CMP",
+    "showItem": true,
+    "group": 1
+  },
+  "Item_Attach_Weapon_Magazine_QuickDraw_Large_C": {
+    "shortName": "QDL",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Lower_AngledForeGrip_C": {
+    "shortName": "AFG",
+    "showItem": true,
+    "group": 3
+  },
+  "Item_Attach_Weapon_Lower_Foregrip_C": {
+    "shortName": "FG",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Magazine_Extended_Large_C": {
+    "shortName": "EXTar",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Magazine_ExtendedQuickDraw_SniperRifle_C": {
+    "shortName": "XS",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Muzzle_Suppressor_SniperRifle_C": {
+    "shortName": "SUPS",
+    "showItem": true,
+    "group": 1
+  },
+  "Item_Attach_Weapon_Stock_AR_Composite_C": {
+    "shortName": "m4s",
+    "showItem": true,
+    "group": 3
+  },
+  "Item_Attach_Weapon_Stock_SniperRifle_CheekPad_C": {
+    "shortName": "CP",
+    "showItem": true,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Muzzle_FlashHider_SniperRifle_C": {
+    "shortName": "FHS",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Magazine_QuickDraw_SniperRifle_C": {
+    "shortName": "QDS",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Magazine_Extended_SniperRifle_C": {
+    "shortName": "EMS",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Muzzle_Suppressor_Medium_C": {
+    "shortName": "SG",
+    "showItem": false,
+    "group": 2
+  },
+ "Item_Attach_Weapon_Magazine_QuickDraw_Medium_C": {
+    "shortName": "qdsub",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Muzzle_FlashHider_Medium_C": {
+    "shortName": "FHM",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Magazine_ExtendedQuickDraw_Medium_C": {
+    "shortName": "XQsub",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Magazine_Extended_Medium_C": {
+    "shortName": "extsub",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Muzzle_Compensator_Medium_C": {
+    "shortName": "CPM",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Stock_UZI_C": {
+    "shortName": "Item_Attach_Weapon_Stock_UZI_C",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Magazine_ExtendedQuickDraw_Small_C": {
+    "shortName": "XQpis",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Magazine_Extended_Small_C": {
+    "shortName": "extpis",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Magazine_QuickDraw_Small_C": {
+    "shortName": "qdpis",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Muzzle_Suppressor_Small_C": {
+    "shortName": "SP",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Muzzle_Choke_C": {
+    "shortName": "Item_Attach_Weapon_Muzzle_Choke_C",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Attach_Weapon_Stock_Shotgun_BulletLoops_C": {
+    "shortName": "Shotgun_BulletLoops",
+    "showItem": false,
+    "group": 2
+  },
+  "Item_Heal_MedKit_C": {
+    "shortName": "MK",
+    "showItem": true,
+    "group": 2
+  },
+  "Item_Heal_FirstAid_C": {
+    "shortName": "FA",
+    "showItem": true,
+    "group": 2
+  },
+  "Item_Boost_EnergyDrink_C": {
+    "shortName": "ED",
+    "showItem": true,
+    "group": 2
+  },
+  "Item_Boost_PainKiller_C": {
+    "shortName": "PK",
+    "showItem": true,
+    "group": 2
+  },
+  "Item_Weapon_Pan_C": {
+    "shortName": "P",
+    "showItem": true,
+    "group": 2
+  },
+  "Item_JerryCan_C": {
+    "shortName": "gas",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Heal_Bandage_C": {
+    "shortName": "BB",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Armor_E_01_Lv1_C": {
+    "shortName": "A1",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Head_E_02_Lv1_C": {
+    "shortName": "A1",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Back_E_01_Lv1_C": {
+    "shortName": "B1",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Back_E_02_Lv1_C": {
+    "shortName": "B1",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Head_E_01_Lv1_C": {
+    "shortName": "H1",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_NagantM1895_C": {
+    "shortName": "revolver",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_AUG_C": {
+    "shortName": "Aug",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_DP28_C": {
+    "shortName": "DP28",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_Win1894_C": {
+    "shortName": "Win1894",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_M9_C": {
+    "shortName": "M9",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_M1911_C": {
+    "shortName": "1911",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_G18_C": {
+    "shortName": "G18",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_Rhino_C": {
+    "shortName": "Rhino",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_Berreta686_C": {
+    "shortName": "Berreta686",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_Sawnoff_C": {
+    "shortName": "Sawnoff",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_Winchester_C": {
+    "shortName": "Winchester",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_Crossbow_C": {
+    "shortName": "CB",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_Grenade_C": {
+    "shortName": "GR",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_FlashBang_C": {
+    "shortName": "FB",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_Molotov_C": {
+    "shortName": "Molly",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_SmokeBomb_C": {
+    "shortName": "SB",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_Machete_C": {
+    "shortName": "Machete",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_Cowbar_C": {
+    "shortName": "Crowbar",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_Sickle_C": {
+    "shortName": "Sickle",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Attach_Weapon_Lower_QuickDraw_Large_Crossbow_C": {
+    "shortName": "Item_Attach_Weapon_Lower_QuickDraw_Large_Crossbow_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Ammo_Bolt_C": {
+    "shortName": "Bolt",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Ammo_12Guage_C": {
+    "shortName": "Ammo_12Guage",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Ammo_45ACP_C": {
+    "shortName": "Ammo_45ACP",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Ammo_9mm_C": {
+    "shortName": "9mm",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Ammo_762mm_C": {
+    "shortName": "762mm",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Ammo_556mm_C": {
+    "shortName": "556mm",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Hands_D_02_C": {
+    "shortName": "Item_Hands_D_02_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Eyes_D_02_C": {
+    "shortName": "Item_Eyes_D_02_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Body_D_01_C": {
+    "shortName": "Item_Body_D_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Mask_C_01_C": {
+    "shortName": "Item_Mask_C_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Body_G_01_C": {
+    "shortName": "Item_Body_G_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Attach_Weapon_Upper_PM2_01_C": {
+    "shortName": "15X",
+    "showItem": false,
+    "group": 0
+  },
+  "Item_Body_C_02_C": {
+    "shortName": "Item_Body_C_02_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Legs_C_04_C": {
+    "shortName": "Item_Legs_C_04_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Body_G_02_C": {
+    "shortName": "Item_Body_G_02_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Body_C_01_C": {
+    "shortName": "Item_Body_C_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Body_C_03_C": {
+    "shortName": "Trash",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Feet_E_01_C": {
+    "shortName": "Item_Feet_E_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Hands_D_03_C": {
+    "shortName": "Item_Hands_D_03_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Body_F_02_C": {
+    "shortName": "Item_Body_F_02_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Jacket_C_05_C": {
+    "shortName": "Item_Jacket_C_05_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Body_F_01_C": {
+    "shortName": "Item_Body_F_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Head_D_01_C": {
+    "shortName": "Item_Head_D_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Feet_E_02_C": {
+    "shortName": "Item_Feet_E_02_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Feet_E_03_C": {
+    "shortName": "Item_Feet_E_03_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Body_D_02_C": {
+    "shortName": "Item_Body_D_02_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Mask_B_01_C": {
+    "shortName": "Item_Mask_B_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Legs_D_01_C": {
+    "shortName": "Item_Legs_D_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Jacket_C_03_C": {
+    "shortName": "Item_Jacket_C_03_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Mask_D_01_C": {
+    "shortName": "Item_Mask_D_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Jacket_C_01_C": {
+    "shortName": "Item_Jacket_C_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Eyes_A_01_C": {
+    "shortName": "Item_Eyes_A_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Head_C_03_C": {
+    "shortName": "Item_Head_C_03_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Body_F_03_C": {
+    "shortName": "Item_Body_F_03_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Jacket_D_01_C": {
+    "shortName": "Item_Jacket_D_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Feet_D_02_C": {
+    "shortName": "Item_Feet_D_02_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Head_C_01_C": {
+    "shortName": "Item_Head_C_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Feet_D_01_C": {
+    "shortName": "Item_Feet_D_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Jacket_D_03_C": {
+    "shortName": "Item_Jacket_D_03_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Legs_C_03_C": {
+    "shortName": "Item_Legs_C_03_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Eyes_D_03_C": {
+    "shortName": "Item_Eyes_D_03_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Body_G_03_C": {
+    "shortName": "Item_Body_G_03_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Legs_C_05_C": {
+    "shortName": "Item_Legs_C_05_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Legs_C_02_C": {
+    "shortName": "Item_Legs_C_02_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Hands_D_01_C": {
+    "shortName": "Item_Hands_D_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Feet_A_01_C": {
+    "shortName": "Item_Feet_A_01_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Jacket_C_02_C": {
+    "shortName": "Item_Jacket_C_02_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Jacket_D_02_C": {
+    "shortName": "Item_Jacket_D_02_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Jacket_C_06_C": {
+    "shortName": "Item_Jacket_C_06_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Weapon_FNFal_C": {
+    "shortName": "SLR",
+    "showItem": true,
+    "group": 1
+  },
+  "Item_Attach_Weapon_Upper_Scope6x_C": {
+    "shortName": "6X",
+    "showItem": true,
+    "group": 1
+  },
+  "Item_Attach_Weapon_Upper_Scope3X_C": {
+    "shortName": "3X",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Attach_Weapon_Lower_LightweightForeGrip_C": {
+    "shortName": "Item_Attach_Weapon_Lower_LightweightForeGrip_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Attach_Weapon_Lower_HalfGrip_C": {
+    "shortName": "HG",
+    "showItem": true,
+    "group": 3
+  },
+  "Item_Attach_Weapon_Lower_ThumbGrip_C": {
+    "shortName": "Item_Attach_Weapon_Lower_ThumbGrip_C",
+    "showItem": false,
+    "group": 4
+  },
+  "Item_Boost_AdrenalineSyringe_C": {
+    "shortName": "AS",
+    "showItem": true,
+    "group": 2
+    },
+  "Item_Attach_Weapon_Muzzle_Duckbill_C": {
+    "shortName": "Item_Attach_Weapon_Muzzle_Duckbill_C",
+    "showItem": false,
+    "group": 4
+	},
+   "Item_Attach_Weapon_Upper_Scope3x_C": {
+    "shortName": "3x",
+    "showItem": galse,
+    "group": 3
+  },
+  "Item_Attach_Weapon_Lower_ThumbGrip_C": {
+    "shortName": "Tg",
+    "showItem": false,
+    "group": 3
+  },
+  "Item_Attach_Weapon_Muzzle_Duckbill_C": {
+    "shortName": "Item_Attach_Weapon_Muzzle_Duckbill_C",
+    "showItem": false,
+    "group": 3
+  },
+  "Item_Attach_Weapon_Lower_HalfGrip_C": {
+    "shortName": "Hgr",
+    "showItem": false,
+    "group": 3
+  },
+  "Item_Attach_Weapon_Lower_LightweightForeGrip_C": {
+    "shortName": "Item_Attach_Weapon_Lower_LightweightForeGrip_C",
+    "showItem": false,
+    "group": 3
+  } 
+}
